@@ -1,0 +1,28 @@
+name: Matthias
+favicon: null
+layout_spectrum: 0.7964226328767836
+typography_spectrum: 0.05369447823613882
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.12438489822670817
+  lightness: 0.7082017087377608
+  saturation: 0.8073160978965461
+  rhythmicContrast: 0.20984484953805804
+purpose: []
